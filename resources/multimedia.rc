@@ -1,0 +1,6 @@
+MENUCLICK WAVE "menuclick.wav"
+STRONGHIT WAVE "stronghit.wav"
+STRONGHIT2 WAVE "stronghit2.wav"
+
+BACKGROUND Bitmap "back.bmp"
+SCORE Bitmap "score.bmp"
